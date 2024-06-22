@@ -1,4 +1,4 @@
-# Segundo projeto do bootcamp de ruby da dio.me
+# Terceiro projeto do bootcamp de ruby da dio.me
 ## Objetivo
 Criar um programa que leia 3 numeros e 
 
